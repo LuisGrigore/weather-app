@@ -22,7 +22,7 @@ A simple weather application that shows the current temperature, location, time,
 
 ## Demo
 
-[Try WeatherApp](https://luisgrigore.github.io/WeatherApp/ "WeatherApp")
+[Try WeatherApp]([https://luisgrigore.github.io/weather-app/ "WeatherApp")
 
 ## Notes
 
